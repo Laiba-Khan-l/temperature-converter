@@ -18,8 +18,8 @@ This Python script allows users to convert temperatures between Celsius and Fahr
 
    Open your terminal or command prompt and navigate to the directory where the script is saved. Then execute:
    bash
+  bash
    python temperature_conversion.py
-   
 
 2. *Follow the Prompts*
 
